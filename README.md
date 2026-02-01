@@ -1,5 +1,5 @@
 # zodiac-sign-calculator
- Python program that calculates zodiac signs with leap year validation
+ A beginner-friendly Python project that calculates a user's zodiac sign based on their birth date.
 
 ## Features
 - Validates month and day input
@@ -16,7 +16,18 @@
 ## How to Run
 1. Download the file
 2. Run using Python:
+   python zodiac_calculator.py
 3. Follow the prompts
+
+## Example Output:
+What is your birth month: July
+What is your birth day: 25
+
+Your zodiac sign is: Leo
+Confident, passionate, and charismatic.
+
+## Requirements
+- Python 3.x
 
 ## Author
 Yurisleidy Leon
